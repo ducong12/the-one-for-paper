@@ -1,5 +1,5 @@
 # The ONE
 
-The Opportunistic Network Environment simulator.
+基于The ONE仿真器(https://github.com/akeranen/the-one/wiki/README)，进行了修改。
 
-For instructions on how to get started, see [README](https://github.com/akeranen/the-one/wiki/README).
+在机会网络中路由不可信场景下对相关路由算法性能进行实现
